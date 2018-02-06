@@ -1,4 +1,4 @@
-VERSION = (3, 0, 0, 'sximada', 0)
+VERSION = (3, 0, 0, 'alpha', 'sximada1')
 
 
 def get_version():
